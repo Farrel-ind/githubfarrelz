@@ -2,3 +2,11 @@ Divisi WebDev
 1. Git dan Github
 2. HTML
 3. CSS
+
+Divisi Programming
+1. C++
+2. GUI
+3. Phyton
+
+Divisi Robotika
+1. Komponen Dasar
